@@ -9,9 +9,11 @@ bruno
 btrfs-progs
 dmenu
 efibootmgr
+fastfetch
 feh
 firefox
 flameshot
+flatpak
 git
 go
 grub
@@ -51,6 +53,7 @@ smartmontools
 sof-firmware
 sudo
 thunar
+tmux
 tree
 ttf-firacode-nerd
 ttf-jetbrains-mono-nerd
