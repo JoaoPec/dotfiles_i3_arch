@@ -1,0 +1,5 @@
+bruno
+keymapper-git
+paru
+paru-debug
+zen-browser-bin
