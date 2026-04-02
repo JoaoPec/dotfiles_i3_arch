@@ -3,7 +3,7 @@
 set -e
 
 BACKUP_DIR="$HOME/dotfiles"
-REPO_URL="git@github.com:JoaoPec/dotfiles_id.git"
+REPO_URL="git@github.com:JoaoPec/dotfiles_i3_arch.git"
 
 while getopts "r:" opt; do
   case $opt in
