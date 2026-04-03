@@ -1,4 +1,6 @@
 amd-ucode
+android-tools
+android-udev
 arandr
 autorandr
 base
@@ -25,6 +27,7 @@ i3lock
 i3status
 intel-media-driver
 iwd
+jdk17-openjdk
 keyd
 keymapper-git
 kitty

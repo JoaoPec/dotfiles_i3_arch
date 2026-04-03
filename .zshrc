@@ -115,3 +115,4 @@ esac
 export NVM_DIR="$HOME/.nvm"
 [ -s "$NVM_DIR/nvm.sh" ] && emulate sh -c "source $NVM_DIR/nvm.sh"
 
+export PATH="$HOME/flutter/bin:$PATH"
