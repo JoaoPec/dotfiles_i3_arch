@@ -1,5 +1,7 @@
 bruno
+cursor-bin
 keymapper-git
+localsend-bin
 paru
 paru-debug
 zen-browser-bin

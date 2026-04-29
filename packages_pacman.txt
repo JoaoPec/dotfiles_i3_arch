@@ -5,10 +5,12 @@ arandr
 autorandr
 base
 base-devel
+blueman
 bluez
 bluez-utils
 bruno
 btrfs-progs
+cursor-bin
 dmenu
 efibootmgr
 fastfetch
@@ -37,6 +39,7 @@ lightdm
 lightdm-gtk-greeter
 linux
 linux-firmware
+localsend-bin
 lxappearance
 nano
 neovim
@@ -45,12 +48,14 @@ openssh
 papirus-icon-theme
 paru
 paru-debug
+pavucontrol
 picom
 pipewire
 pipewire-alsa
 pipewire-jack
 pipewire-pulse
 power-profiles-daemon
+reflector
 rofi
 smartmontools
 sof-firmware
@@ -68,6 +73,7 @@ vulkan-radeon
 wget
 wireless_tools
 wireplumber
+xclip
 xdg-utils
 xf86-video-amdgpu
 xf86-video-ati
