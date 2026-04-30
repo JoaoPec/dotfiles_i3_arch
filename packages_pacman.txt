@@ -2,6 +2,7 @@ amd-ucode
 android-tools
 android-udev
 arandr
+arc-gtk-theme
 autorandr
 base
 base-devel

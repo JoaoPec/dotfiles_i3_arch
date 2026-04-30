@@ -1,3 +1,4 @@
+arc-gtk-theme
 bruno
 cursor-bin
 keymapper-git
